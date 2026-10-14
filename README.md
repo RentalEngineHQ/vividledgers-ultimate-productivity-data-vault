@@ -18,7 +18,7 @@ The table below catalogs our active high-volume data modules. To unlock a standa
 | **Vivid Time-Boxed Daily Planner** | 24-hour daily timeline grid featuring a dynamic habit repetition ledger. Tracks accumulative habit execution streak scores automatically. | <a href="https://vividledgers.gumroad.com/l/wrkkwa" target="_blank"><b>Unlock Daily Planner</b></a> | **$9.00** |
 | **Vivid Side-Hustle Expense Tracker** | Profit & loss bookkeeping log for gig workers and resellers. Automated calculation lines for platform fees, material costs, and mileage tax write-offs. | <a href="https://vividledgers.gumroad.com/l/djabs" target="_blank"><b>Unlock Expense Tracker</b></a> | **$9.00** |
 | **Vivid Project Management Spreadsheet** | Milestone tracking matrix for freelancers and managers. Allocates project time credits and cleanly subtracts research, production, and revision hours. | <a href="https://vividledgers.gumroad.com/l/xnlzor" target="_blank"><b>Unlock Project Matrix</b></a> | **$9.00** |
-| **Vivid Fitness Tracker Spreadsheet** | Physical calibration log tracking targets, consumption macros (protein, carbs, fats), and rolling daily cardio burn metrics. | <a href="https://vividledgers.gumroad.com/l/nhrkqx" target="_blank"><b>Unlock Fitness Ledger</b></a> | **$9.00** |
+| **Vivid Fitness Tracker Spreadsheet** | Physical calibration log tracking targets, consumption macros (protein, carbs, fats), and rolling daily cardio burn metrics. | <a href="https://vividledgers.gumroad.com/l/nhrkgx" target="_blank"><b>Unlock Fitness Ledger</b></a> | **$9.00** |
 
 ---
 
