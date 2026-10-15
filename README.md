@@ -1,8 +1,8 @@
-# vividledgers-ultimate-productivity-data-vault
-
 # VividLedgers™ • Ultimate Personal Finance & Productivity Data Vault
 
 Welcome to the official repository for the VividLedgers software catalog—a suite of permanent-ownership, break-proof data tracking sheets engineered exclusively for Microsoft Excel (.xlsx) desktop and mobile workspaces. Purpose-built for high-performers, freelancers, and lifestyle enthusiasts, this standalone ecosystem eliminates expensive monthly software subscriptions, providing elite dark-mode utility with 100% offline data privacy.
+
+<p align="center"><img src="preview.png" width="85%" style="max-width: 400px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"></p>
 
 🔒 **100% Secure Local Deployment:** Every ledger inside this suite is completely Macro-Free, formula-locked, and cleared of all background tracking scripts to keep your private logs protected.
 
